@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Cursando ADS<br>🌱 Atualmente estudando tecnologias para o front-end<br>⚡ Sou formado em nutrição, no entanto o mundo da tecnologia sempre<br>foi minha verdadeira paixão. Em agosto de 2023 comecei pra valer meus<br>estudos para a migração de carreira.
+🔭 Cursando ADS<br>🌱 Atualmente estudando tecnologias para o desenvolvimento web<br>⚡ Sou formado em nutrição, no entanto o mundo da tecnologia sempre<br>foi minha verdadeira paixão. Em agosto de 2023 comecei pra valer meus<br>estudos para a transição de carreira.
 
 
 ## 🌐 Socials:
